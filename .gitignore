@@ -1,0 +1,15 @@
+/wandb
+/output*
+/log
+/data
+/visualization
+/*.pth
+/*.pt
+/*.ipynb
+/weights
+__pycache__/
+DS_Store
+.vscode/
+.env
+*.mp4
+*.avi
